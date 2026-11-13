@@ -1,5 +1,7 @@
 # FLEY Glasses 1.0
 
+**FLEY Glasses 1.0** is a smart glasses project featuring an integrated AI assistant powered by an **ESP32-S3** microcontroller (in the style of E.D.I.T.H.). The device recognizes voice commands, analyzes real-time video from its camera, assesses surrounding threats, saves photos to a memory card, and provides audio responses through speakers built into the frames.
+
 **Smart AI Glasses • Powered by FLEY AI**  
 > *«Видеть. Слышать. Помогать.» — FLEY*
 
